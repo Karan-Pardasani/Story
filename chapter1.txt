@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 It was the best of times.FFFFFIIII
+=======
+It was the best of times.RRRRIIII
+>>>>>>> master
